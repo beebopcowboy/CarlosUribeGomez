@@ -700,4 +700,13 @@ p {
 		margin: 1.5%;
 	}
 }
+/*projects hover*/
+.project-info a {
+	color: white; 
+	text-decoration: none; 
+  }
+  
+  .project-info a:hover {
+	color: orange; 
+  }
 /* End  Media Query For Desktop */
